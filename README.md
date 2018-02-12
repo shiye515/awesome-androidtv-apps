@@ -2,9 +2,9 @@
 好用的android智能电视应用
 
 ## video
-- [vlc](https://www.videolan.org/vlc/) 播放本地视频，局域网存储(smb、ftp、plex)
-- [腾讯视频](http://v.qq.com/download.html#tv) 在线视频，加上下面的两个，就把bat三个大厂的的视频应用都装齐了
-- [优酷](http://pd.youku.com/CIBN)
+- [vlc](https://www.videolan.org/vlc/) 播放本地视频，局域网存储(smb、ftp、plex)
+- [腾讯视频](http://v.qq.com/download.html#tv) 在线视频，加上下面的两个，就把bat三个大厂的的视频应用都装齐了
+- [优酷](http://pd.youku.com/CIBN)
 - [爱奇艺](http://app.iqiyi.com/tv/player/index.html)
 
 ## music
@@ -20,5 +20,5 @@
 ## game
 - [real race 3](https://www.ea.com/games/real-racing/real-racing-3?isLocalized=true) 完美支持xbox 360 手柄
 
-## app market
+## app market
 > 应用市场就不推荐了，国内的市场几乎都没审核的，里面的应用参差不齐，不过可以随便装一个用来使用远程推送应用安装功能
