@@ -12,7 +12,7 @@
 
 ## tools
 - [iTools投屏大师](https://pro.itools.cn/pro_screen/tv.php) ios屏幕镜像，android屏幕镜像一般都内置了，比如索尼的电视
-- [Video & TV SideView](http://info.tvsideview.sony.net/zh_cn/) 索尼BRAVIA系列电视专用遥控app
+- [Video & TV SideView](http://info.tvsideview.sony.net/zh_cn/) 索尼BRAVIA系列电视专用遥控app
   
 ## health
 - [keep](http://www.gotokeep.com/app?type=android) 质量得非常高，就是视频太占存储了
